@@ -1,0 +1,173 @@
+[
+    {
+      "id": 1,
+      "name": "HMS Unicorn",
+      "picture": "https://azurlane.netojuu.com/images/5/55/UnicornShipyardIcon.png",
+      "soundLink": "https://azurlane.netojuu.com/images/0/03/Unicorn_SelfIntroJP.ogg",
+      "Rarity":	"Elite ★★★★★",
+      "Classification":	"Light aircraft carrier (CVL)", 
+      "Augment":"Scepter, Hunting Bow",
+      "Faction":	"Royal Navy",
+      "Actor":	"Ai Kakuma",
+      "Illustrator":"梦咲枫"
+    },
+    {
+      "id": 2,
+      "name": "IJN Noishiro",
+      "picture": "https://azurlane.netojuu.com/images/a/a1/NoshiroShipyardIcon.png",
+      "soundLink": "https://azurlane.netojuu.com/images/3/38/Noshiro_SelfIntroJP.ogg",
+      "Rarity":	"Super Rare ★★★★★★",
+      "Classification":	"Light cruiser (CL)", 
+      "Augment":"Crossbow, Sword",
+      "Faction":	"Sakura Empire",
+      "Actor":	"Anju Inami",
+      "Illustrator":"ATDAN"
+    },
+    {
+        "id": 3,
+        "name": "ijn i-19",
+        "picture": "https://azurlane.netojuu.com/images/3/33/I-19ShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/5/58/I-19_SelfIntroJP.ogg",
+        "Rarity":	"Super Rare ★★★★★★",
+        "Classification":	"Submarine (SS)", 
+        "Augment":"Kunai, Dagger",
+        "Faction":	"Sakura Empire",
+        "Actor":	"Yui Ogura",
+        "Illustrator":"米白粕"
+    },	
+    	
+    {
+        "id": 4,
+        "name": "HMS Sussex",
+        "picture": "https://azurlane.netojuu.com/images/0/01/SussexShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/d/db/Sussex_SelfIntroJP.ogg",
+        "Rarity":	"Rare ★★★★★",
+        "Classification":	"Heavy cruiser (CA)", 
+        "Augment":"Lance, Greatsword",
+        "Faction":	"Royal Navy",
+        "Actor":	"Hikaru Aono",
+        "Illustrator":"ALLENES"
+    },
+    {
+        "id": 5,
+        "name": "HMS Abercrombie",
+        "picture": "https://azurlane.netojuu.com/images/4/40/AbercrombieShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/1/11/Abercrombie_SelfIntroJP.ogg",
+        "Rarity":	"Elite ★★★★★",
+        "Classification":	"Monitor (BM)", 
+        "Augment":"Lance",
+        "Faction":	"Royal Navy",
+        "Actor":	"Jun Nagatsuma",
+        "Illustrator":"黑猫"
+    },
+    {
+        "id": 6,
+        "name": "IJN Amagi",
+        "picture": "https://azurlane.netojuu.com/images/a/ae/AmagiShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/2/25/Amagi_SelfIntroJP.ogg",
+        "Rarity":	"Super Rare ★★★★★★",
+        "Classification":	"Battlecruiser (BC) ", 
+        "Augment":"Bowgun, Officer's Sword",
+        "Faction":	"Sakura Empire",
+        "Actor":	"Miyuki Sawashiro",
+        "Illustrator":"Liduke"
+    },
+    {
+        "id": 7,
+        "name": "USS Laffey",
+        "picture": "https://azurlane.netojuu.com/images/b/b4/LaffeyShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/4/4d/Laffey_SelfIntroJP.ogg",
+        "Rarity":	"Elite ★★★★★",
+        "Classification":	"Destroyer (DD)", 
+        "Augment":"Huggy Pillow of Bravery, Hammer, Dual Swords",
+        "Faction":	"Eagle Union",
+        "Actor":	" Maria Naganawa",
+        "Illustrator":"梦咲枫"
+    },
+    {
+        "id": 8,
+        "name": "KMS Friedrich der Große",
+        "picture": "https://azurlane.netojuu.com/images/6/6a/Friedrich_der_Gro%C3%9FeShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/9/90/Friedrich_der_Gro%C3%9Fe_SelfIntroJP.ogg",
+        "Rarity":	"Decisive ★★★★★★",
+        "Classification":	"Battleship (BB)", 
+        "Augment":"Bowgun, Officer's Sword",
+        "Faction":	"Iron Blood",
+        "Actor":	" Hitomi Nabatame",
+        "Illustrator":"Manjuu Art Group"
+    },
+    {
+        "id": 9,
+        "name": "USS Eldridge",
+        "picture": "https://azurlane.netojuu.com/images/5/53/EldridgeShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/3/3f/Eldridge_SelfIntroJP.ogg",
+        "Rarity":	"Super Rare ★★★★★★",
+        "Classification":	"Destroyer (DD)", 
+        "Augment":"Hammer, Dual Swords",
+        "Faction":	"Eagle Union",
+        "Actor":	"Nozomi Sasaki",
+        "Illustrator":"黑猫"
+    },
+    {
+        "id": 10,
+        "name": "USS Phoenix",
+        "picture": "https://azurlane.netojuu.com/images/5/56/PhoenixShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/e/e2/Phoenix_SelfIntroJP.ogg",
+        "Rarity":	"Rare ★★★★★",
+        "Classification":	"Light cruiser (CL)", 
+        "Augment":"Crossbow, Sword",
+        "Faction":	"Eagle Union",
+        "Actor":	"Lynn",
+        "Illustrator":"realmbw"
+    },    	
+	
+    {
+        "id": 11,
+        "name": "USS Cleaveland",
+        "picture": "https://azurlane.netojuu.com/images/4/45/ClevelandShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/0/06/Cleveland_SelfIntroJP.ogg",
+        "Rarity":	"Elite ★★★★★",
+        "Classification":	"Light cruiser (CL)", 
+        "Augment":"Crossbow, Sword",
+        "Faction":	"Eagle Union",
+        "Actor":	"Saya Horigome",
+        "Illustrator":"八才提督"
+    },
+    {
+        "id": 12,
+        "name": "USS Washington",
+        "picture": "https://azurlane.netojuu.com/images/f/f7/WashingtonShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/7/74/Washington_SelfIntroJP.ogg",
+        "Rarity":	"Super Rare ★★★★★★",
+        "Classification":	"Battleship (BB)", 
+        "Augment":"Bowgun, Officer's Sword",
+        "Faction":	"Sakura Empire",
+        "Actor":	"Rika Abe",
+        "Illustrator":"shiyo"
+    },
+    {
+        "id": 13,
+        "name": "HMS Dorsetshire",
+        "picture": "https://azurlane.netojuu.com/images/0/02/DorsetshireShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/0/02/DorsetshireShipyardIcon.png",
+        "Rarity":	"Elite ★★★★★",
+        "Classification":	"Battleship (BB)", 
+        "Augment":"Lance, Greatsword",
+        "Faction":	"Royal Navy",
+        "Actor":	"Manami Numakura",
+        "Illustrator":"shiyo"
+    },
+    {
+        "id": 14,
+        "name": "HMS Belfast",
+        "picture": "https://azurlane.netojuu.com/images/5/57/BelfastShipyardIcon.png",
+        "soundLink": "https://azurlane.netojuu.com/images/2/23/Belfast_SelfIntroJP.ogg",
+        "Rarity":	"Super Rare ★★★★★★",
+        "Classification":	"Light cruiser (CL)", 
+        "Augment":"Afternoon of Surging Elegance, Crossbow, Sword",
+        "Faction":	"Royal Navy",
+        "Actor":	"Yui Horie",
+        "Illustrator":"kisetsu"
+    } 
+ ]
+  

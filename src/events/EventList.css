@@ -1,0 +1,49 @@
+.sea-theme {
+    /* Your sea-themed styles */
+    /* For example: */
+    background-color: rgb(147, 239, 255);
+    color: #005792;
+    padding: 20px;
+  }
+    
+  .title {
+    color: white; /* White color for the title */
+    background-color: #4caf50; /* Green shading for the title */
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .line {
+    border: 0;
+    border-top: 4px solid #fff; /* Bold line below the title */
+  }
+  
+  .details {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .info {
+    color: #000; /* Black font color for the details */
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
+  .event-table {
+    width: 100%;
+    border: 2px solid #005792; /* Border style for the table */
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .event-table th,
+  .event-table td {
+    border: 2px solid #005792; /* Border style for table cells */
+    padding: 8px;
+  }
+  
+  .event-table th {
+    font-weight: bold; /* Bold text for table header */
+  }
+  

@@ -1,0 +1,49 @@
+/* Styles for Event List */
+.event-item {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #152238; /* Deep blue background */
+  border-radius: 8px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.event-item:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.event-item h2 {
+  margin-bottom: 10px;
+  color: #aad8e6; /* Light blue for event names */
+}
+
+.event-item p {
+  color: #ccc;
+}
+
+/* Styles for Event Detail */
+.event-detail {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #1f4662; /* Deep blue background */
+  margin: 20px 0;
+}
+
+.event-detail h1 {
+  color: #aad8e6; /* Light blue for event name */
+  margin-bottom: 10px;
+}
+
+.event-detail p {
+  color: #ccc;
+  line-height: 1.6;
+}
+
+.event-detail img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}

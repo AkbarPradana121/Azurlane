@@ -1,0 +1,44 @@
+.splash-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #001F3F; /* Set deep blue background color */
+  /* Additional styles for the container */
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.big-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  border-radius: 10px;
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black; /* Set button text color to black */
+  background-size: cover;
+  background-position: center;
+  border: 2px solid black; /* Add black border */
+  transition: transform 0.3s ease-in-out; /* Add transition effect */
+  cursor: pointer; /* Change cursor to pointer */
+  /* Additional styles for the buttons */
+}
+
+  .big-button:hover {
+    transform: scale(1.4); /* Zoom effect on hover */
+    /* Additional styles for hover state */
+  }
+  .ship { background-image: url('https://azurlane.netojuu.com/images/2/2f/Universal_BulinShipyardIcon.png'); } /* Customize button backgrounds */
+  .event { background-image: url('https://azurlane.netojuu.com/images/7/7c/Prototype_Bulin_MKIIShipyardIcon.png'); }
+  .about { background-image: url('https://azurlane.netojuu.com/images/f/fd/Specialized_Bulin_Custom_MKIIIShipyardIcon.png'); }
+  
+  /* Additional styling or adjustments can be made as needed */
+  

@@ -1,0 +1,36 @@
+/* Add these styles to your about.css file */
+.about-container {
+    margin: 20px;
+  }
+  
+  .essay {
+    margin-bottom: 20px;
+  }
+  
+  .photo img {
+    width: 200px; /* Adjust size as needed */
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .biodata {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd; /* Border color */
+  }
+  
+  td:first-child {
+    font-weight: bold;
+  }
+  
